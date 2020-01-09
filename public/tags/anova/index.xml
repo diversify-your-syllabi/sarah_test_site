@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ANOVA | Diversify Your Syllabi</title>
+    <link>/tags/anova/</link>
+      <atom:link href="/tags/anova/index.xml" rel="self" type="application/rss+xml" />
+    <description>ANOVA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>ANOVA</title>
+      <link>/tags/anova/</link>
+    </image>
+    
+    <item>
+      <title>Gender Gaps in Self-Citation</title>
+      <link>/publication/king_socius/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/king_socius/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,8 @@
 +++
 # A Projects section created with the Portfolio widget.
+#to add new content that will be linked to these tags, upload it in a new folder
+#under the publications folder (content/publication) using the format of the other
+#publications as a guide. Then, add the desired tag name as one of the tags to that publication
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -10,7 +13,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "publication"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -19,7 +22,9 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  filter_default = 1 
+  #thus, ANOVA. chose this instead of ALL bc all includes articles about gender+ citation,
+  #not just stats topics
   
   #filling in buttons currently as statistical topics (eg correlation, regression)
   #currently listing in alphabetical order
