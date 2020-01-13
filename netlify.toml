@@ -12,10 +12,7 @@
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.60.1"
-  
-[context.production.environment]
-  HUGO_ENV = "production"
-
+ 
 #[context.deploy-preview]
 #  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --themesDir ../../"
 
