@@ -1,3 +1,7 @@
+#this file is used for the domain host (netlify) to know how to configure site.
+#it SHOULD NOT BE DELETED! However, you can update the HUGO_VERSION lines
+#as needed (to find out what hugo version is run locally, run the blogdown::hugo_version() command)
+
 [build] 
   publish = "public"
   command = "hugo"
@@ -13,12 +17,6 @@
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.60.1"
  
-#[context.deploy-preview]
-#  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --themesDir ../../"
-
-#[context.branch-deploy]
-#  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL --themesDir ../../"
-
 [[headers]]
   for = "*.webmanifest"
   [headers.values]
