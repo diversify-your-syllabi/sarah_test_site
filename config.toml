@@ -7,7 +7,6 @@
 # Title of your site
 title = "Diversify Your Syllabi"
 
-publishDir = "docs"
 
 # The URL of your site. (this is the netlify url)
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
