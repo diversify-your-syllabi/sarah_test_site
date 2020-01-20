@@ -21,17 +21,15 @@ organizations:
 bio: 
 
 interests:
-- INTEREST 1
-- INTEREST 2
+- Social Network Analysis
+- R
+- Reproducible Research
 
 education:
   courses:
-  - course: Phd in
-    institution: ...
+  - course: Phd in Biostatistics
+    institution: Saint Louis University
     year: ...
-  - course: BS
-    institution: ...
-    year: ..
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
