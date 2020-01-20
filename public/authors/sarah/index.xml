@@ -5,12 +5,20 @@
     <link>/authors/sarah/</link>
       <atom:link href="/authors/sarah/index.xml" rel="self" type="application/rss+xml" />
     <description>Diversify Your Syllabi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Diversify Your Syllabi</title>
       <link>/authors/sarah/</link>
     </image>
+    
+    <item>
+      <title>Why Gender Diversity Still Matters</title>
+      <link>/post/why-gender-diversity-still-matters/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/why-gender-diversity-still-matters/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
