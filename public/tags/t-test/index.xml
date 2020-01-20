@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T-test | Diversify Your Syllabi</title>
+    <link>/tags/t-test/</link>
+      <atom:link href="/tags/t-test/index.xml" rel="self" type="application/rss+xml" />
+    <description>T-test</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>T-test</title>
+      <link>/tags/t-test/</link>
+    </image>
+    
+    <item>
+      <title>Effect of Non-Normality on the Power Function of the Sign Test</title>
+      <link>/publication/gibbons_jasa_signtest/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gibbons_jasa_signtest/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

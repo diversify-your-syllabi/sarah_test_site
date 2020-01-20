@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean D. Gibbons | Diversify Your Syllabi</title>
+    <link>/authors/jean-d.-gibbons/</link>
+      <atom:link href="/authors/jean-d.-gibbons/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean D. Gibbons</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jean D. Gibbons</title>
+      <link>/authors/jean-d.-gibbons/</link>
+    </image>
+    
+    <item>
+      <title>Effect of Non-Normality on the Power Function of the Sign Test</title>
+      <link>/publication/gibbons_jasa_signtest/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gibbons_jasa_signtest/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
