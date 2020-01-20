@@ -86,6 +86,10 @@ subtitle = ""
     tag = "Power"  
     
   [[content.filter_button]]
+    name = "P-values"
+    tag = "P-values" 
+    
+  [[content.filter_button]]
     name = "Sampling"
     tag = "Sampling"
     

@@ -45,6 +45,14 @@
     </item>
     
     <item>
+      <title>P-values</title>
+      <link>/tags/p-values/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/p-values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social science</title>
       <link>/tags/social-science/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
@@ -65,6 +73,22 @@
       <link>/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Negative Binomial Regression</title>
+      <link>/tags/negative-binomial-regression/</link>
+      <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/tags/negative-binomial-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poisson Regression</title>
+      <link>/tags/poisson-regression/</link>
+      <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/tags/poisson-regression/</guid>
       <description></description>
     </item>
     
