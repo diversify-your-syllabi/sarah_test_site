@@ -16,7 +16,7 @@ image:
   preview_only: no
 projects: []
 ---
-![a chisquare distribution](/static/img/featured.jpg)
+![a chisquare distribution](/img/featured.jpg)
 
 While there are not many readily available datasets that show citation counts for different authors by gender or sex, we can still direct you to a few places that focus on STEM diversity and education. Some data cleaning may be required :)!
 
