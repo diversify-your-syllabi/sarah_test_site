@@ -5,20 +5,12 @@
     <link>/tags/gender/</link>
       <atom:link href="/tags/gender/index.xml" rel="self" type="application/rss+xml" />
     <description>Gender</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Gender</title>
       <link>/tags/gender/</link>
     </image>
-    
-    <item>
-      <title>Why Gender Diversity Still Matters</title>
-      <link>/post/why-gender-diversity-still-matters/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/why-gender-diversity-still-matters/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Gendered Citation Patterns across Political Science and Social Science Methodology Fields</title>

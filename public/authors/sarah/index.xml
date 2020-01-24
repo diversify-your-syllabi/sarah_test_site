@@ -5,7 +5,7 @@
     <link>/authors/sarah/</link>
       <atom:link href="/authors/sarah/index.xml" rel="self" type="application/rss+xml" />
     <description>Diversify Your Syllabi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Diversify Your Syllabi</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
-      <title>Why Gender Diversity Still Matters</title>
-      <link>/post/why-gender-diversity-still-matters/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/why-gender-diversity-still-matters/</guid>
-      <description></description>
+      <title>Some Helpful Resources</title>
+      <link>/post/some-helpful-resources/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/some-helpful-resources/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/static/img/featured.jpg&#34; alt=&#34;a chisquare distribution&#34;&gt;&lt;/p&gt;
+&lt;p&gt;While there are not many readily available datasets that show citation counts for different authors by gender or sex, we can still direct you to a few places that focus on STEM diversity and education. Some data cleaning may be required :)!&lt;/p&gt;
+&lt;h2 id=&#34;stem-and-higher-education&#34;&gt;STEM and Higher Education&lt;/h2&gt;
+&lt;p&gt;First, the &lt;a href=&#34;https://ncsesdata.nsf.gov/datadownload/&#34;&gt;National Science Foundation&lt;/a&gt; has several datasets that may be useful, including the &lt;strong&gt;National Survey of College Graduates&lt;/strong&gt;, the &lt;strong&gt;Survey of Doctoral Recipients&lt;/strong&gt;, and the &lt;strong&gt;Survey of International Doctoral Recipients&lt;/strong&gt;. These assess job prospects, salary, satisfaction, and career development in recipients of college degrees - both STEM and non-STEM. More generally, the &lt;a href=&#34;https://nces.ed.gov/datalab/index.aspx&#34;&gt;National Center for Education Statistics&lt;/a&gt; collects data on high school and college enrollees, including other measures such as student loans, grades, and college majors.&lt;/p&gt;
+&lt;h2 id=&#34;famous-female-statisticians&#34;&gt;Famous Female Statisticians&lt;/h2&gt;
+&lt;p&gt;In honor of Women&#39;s History Month, the &lt;a href=&#34;https://magazine.amstat.org/statisticians-in-history/wis/&#34;&gt;American Statistical Association&lt;/a&gt; posted a lovely collection of women currently working in math and statistics fields. You can click on any of their biographies to find out more about why they entered the field and what they&#39;re currently working on.&lt;/p&gt;
+&lt;h2 id=&#34;pew-research-center&#34;&gt;Pew Research Center&lt;/h2&gt;
+&lt;p&gt;In one of their many opinion polls, &lt;a href=&#34;https://www.pewsocialtrends.org/2018/01/09/women-and-men-in-stem-often-at-odds-over-workplace-equity/&#34;&gt;the Pew Research Center&lt;/a&gt; interviewed men and women in STEM about perceived equity in the workplace. Generally, women viewed (in)equity as more of a problem than men, with almost 75% of those working in predominantly male spaces reporting harrassment, and 20% reporting that their gender made career advancement difficult. The data for the survey are &lt;a href=&#34;https://www.pewsocialtrends.org/dataset/2017-pew-research-center-stem-survey/&#34;&gt;here&lt;/a&gt;: note you will have to create a free account on the PEW website to download.&lt;/p&gt;
+&lt;h2 id=&#34;data-visualization&#34;&gt;Data visualization&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://datausa.io/profile/cip/biostatistics&#34;&gt;Data USA&lt;/a&gt; offers a deep dive into recipients of Biostatistics degrees: who gets them and from where, job prospects throughtout the country, and skills needed in a statistics career.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
