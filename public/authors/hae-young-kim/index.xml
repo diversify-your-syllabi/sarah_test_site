@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hae-Young Kim | Diversify Your Syllabi</title>
+    <link>/authors/hae-young-kim/</link>
+      <atom:link href="/authors/hae-young-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hae-Young Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Hae-Young Kim</title>
+      <link>/authors/hae-young-kim/</link>
+    </image>
+    
+    <item>
+      <title>Statistical notes for clinical researchers assessing normal distribution (2) using skewness and kurtosis</title>
+      <link>/publication/kim_skewness/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/kim_skewness/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

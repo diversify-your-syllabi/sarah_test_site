@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>How to choose the right statistical test?</title>
+      <link>/publication/nayak_ijopth/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nayak_ijopth/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>It’s Time to Rehabilitate the P-Value</title>
       <link>/publication/weinburg_epidemiology01/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
@@ -54,6 +63,15 @@
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/grambsch_amerstat/</guid>
       <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical notes for clinical researchers assessing normal distribution (2) using skewness and kurtosis</title>
+      <link>/publication/kim_skewness/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/kim_skewness/</guid>
+      <description>&lt;hr&gt;
 </description>
     </item>
     
@@ -82,44 +100,19 @@
     </item>
     
     <item>
+      <title>Practical and statistical issues in missing data for longitudinal patient-reported outcomes</title>
+      <link>/publication/bell_statmmedres/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/bell_statmmedres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Analysis of Count Data A Gentle Introduction to Poisson Regression and Its Alternatives</title>
       <link>/publication/coxe_jpersonality/</link>
       <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
       <guid>/publication/coxe_jpersonality/</guid>
       <description>&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/publication/bell_statmmedres/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/bell_statmmedres/</guid>
-      <description>&lt;h1 id=&#34;heading&#34;&gt;&amp;mdash;&lt;/h1&gt;
-&lt;h1 id=&#34;abstract-patientreported-outcomes-are-increasingly-used-in-health-research-including-randomized-controlled-trials-and-observational-studies-however-the-validity-of-results-in-longitudinal-studies-can-crucially-hinge-on-the-handling-of-missing-data-this-paper-considers-the-issues-of-missing-data-at-each-stage-of-research-practical-strategies-for-minimizing-missingness-through-careful-study-design-and-conduct-are-given-statistical-approaches-that-are-commonly-used-but-should-be-avoided-are-discussed-including-how-these-methods-can-yield-biased-and-misleading-results-methods-that-are-valid-for-data-which-are-missing-at-random-are-outlined-including-maximum-likelihood-methods-multiple-imputation-and-extensions-to-generalized-estimating-equations-weighted-generalized-estimating-equations-generalized-estimating-equations-with-multiple-imputation-and-doubly-robust-generalized-estimating-equations-finally-we-discuss-the-importance-of-sensitivity-analyses-including-the-role-of-missing-not-at-random-models-such-as-pattern-mixture-selection-and-shared-parameter-models-we-demonstrate-many-of-these-concepts-with-data-from-a-randomized-controlled-clinical-trial-on-renal-cancer-patients-and-show-that-the-results-are-dependent-on-missingness-assumptions-and-the-statistical-approach&#34;&gt;abstract: Patient-reported outcomes are increasingly used in health research, including randomized controlled trials and observational studies. However, the validity of results in longitudinal studies can crucially hinge on the handling of missing data. This paper considers the issues of missing data at each stage of research. Practical strategies for minimizing missingness through careful study design and conduct are given. Statistical approaches that are commonly used, but should be avoided, are discussed, including how these methods can yield biased and misleading results. Methods that are valid for data which are missing at random are outlined, including maximum likelihood methods, multiple imputation and extensions to generalized estimating equations: weighted generalized estimating equations, generalized estimating equations with multiple imputation, and doubly robust generalized estimating equations. Finally, we discuss the importance of sensitivity analyses, including the role of missing not at random models, such as pattern mixture, selection, and shared parameter models. We demonstrate many of these concepts with data from a randomized controlled clinical trial on renal cancer patients, and show that the results are dependent on missingness assumptions and the statistical approach.&lt;/h1&gt;
-&lt;h1 id=&#34;authors&#34;&gt;authors:&lt;/h1&gt;
-&lt;h1 id=&#34;-melanie-l-bell-and-diane-l-fairclough&#34;&gt;- Melanie L. Bell and Diane L. Fairclough&lt;/h1&gt;
-&lt;h1 id=&#34;date-20141004t000000z&#34;&gt;date: &amp;ldquo;2014-10-04T00:00:00Z&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;doi-1011770962280213476378&#34;&gt;doi: &amp;ldquo;10.1177/0962280213476378&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;featured-false&#34;&gt;featured: false&lt;/h1&gt;
-&lt;h1 id=&#34;publication-statistical-methods-in-medical-research&#34;&gt;publication: &lt;em&gt;Statistical Methods in Medical Research&lt;/em&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;publicationshort-&#34;&gt;publication_short: &amp;quot;&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;publicationtypes&#34;&gt;publication_types:&lt;/h1&gt;
-&lt;h1 id=&#34;-2&#34;&gt;- &amp;ldquo;2&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;summary-an-overview-of-methods-and-assumptions-for-dealing-with-missing-data&#34;&gt;summary: An Overview of Methods and Assumptions for Dealing with Missing Data&lt;/h1&gt;
-&lt;h1 id=&#34;title-practical-and-statistical-issues-in-missing-data-for-longitudinal-patientreported-outcomes&#34;&gt;title: Practical and statistical issues in missing data for longitudinal patient-reported outcomes&lt;/h1&gt;
-&lt;h1 id=&#34;urlcode-&#34;&gt;url_code: &amp;quot;&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;urldataset-&#34;&gt;url_dataset: &amp;quot;&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;urlpdf-&#34;&gt;url_pdf: &amp;quot;&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;urlposter-&#34;&gt;url_poster: &amp;quot;&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;urlproject-&#34;&gt;url_project: &amp;quot;&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;urlslides-&#34;&gt;url_slides: &amp;quot;&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;urlsource-httpswwwncbinlmnihgovpubmed23427225&#34;&gt;url_source: &amp;ldquo;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/23427225&#34;&gt;https://www.ncbi.nlm.nih.gov/pubmed/23427225&lt;/a&gt;&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;urlvideo-&#34;&gt;url_video: &amp;quot;&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;heading1&#34;&gt;&amp;mdash;&lt;/h1&gt;
-&lt;h1 id=&#34;heading2&#34;&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;heading3&#34;&gt;&amp;mdash;&lt;/h1&gt;
-&lt;h1 id=&#34;heading4&#34;&gt;&lt;/h1&gt;
 </description>
     </item>
     

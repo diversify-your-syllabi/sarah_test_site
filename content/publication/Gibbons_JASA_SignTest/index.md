@@ -12,7 +12,7 @@ publication_types:
 publishDate: "2012-04-10T00:00:00Z"
 summary: A limitation to nonparametric statistics can be loss of power. The author demonstrates, however, that the sign test has comparable power to the Student's t test, particularly in the case of leptokurtic distributions.
 tags:
-- T-test
+- T-Test
 - Sign test
 - Power
 title: Effect of Non-Normality on the Power Function of the Sign Test

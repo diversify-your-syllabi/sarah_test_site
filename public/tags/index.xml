@@ -61,6 +61,14 @@
     </item>
     
     <item>
+      <title>NHST</title>
+      <link>/tags/nhst/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/nhst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Normality</title>
       <link>/tags/normality/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
@@ -101,10 +109,26 @@
     </item>
     
     <item>
+      <title>Sampling</title>
+      <link>/tags/sampling/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sign test</title>
       <link>/tags/sign-test/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/tags/sign-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skewness</title>
+      <link>/tags/skewness/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/skewness/</guid>
       <description></description>
     </item>
     
@@ -125,7 +149,15 @@
     </item>
     
     <item>
-      <title>T-test</title>
+      <title>Statistics</title>
+      <link>/tags/statistics/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T-Test</title>
       <link>/tags/t-test/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/tags/t-test/</guid>
@@ -145,6 +177,14 @@
       <link>/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missing Data</title>
+      <link>/tags/missing-data/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/missing-data/</guid>
       <description></description>
     </item>
     
