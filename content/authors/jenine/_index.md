@@ -39,12 +39,12 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: 
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
+- icon: twitter
+  icon_pack: fab
+  link: https://www.twitter.com/jenineharris
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=zyJCTQQAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: 

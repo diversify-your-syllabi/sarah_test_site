@@ -21,8 +21,8 @@ organizations:
 bio: 
 
 interests:
-- INTEREST 1
-- INTEREST 2
+- Mental Health
+- Health Disparities
 
 education:
   courses:
